@@ -12,6 +12,8 @@
 ## Project Overview
 
 ### Description
+An AI tool that translates natural language into SQL queries. 
+
 This project integrates OpenAI's ChatGPT with a PostgreSQL database, allowing users to interact with the database through natural language queries. Users can ask questions about properties in a specific location, and the system translates these queries into SQL to fetch the relevant information.
 
 ### Purpose
